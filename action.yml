@@ -1,5 +1,8 @@
 name: DPCRAS3CF
 description: "Deploying CRA app at AWS S3 and CloudFront"
+branding:
+  icon: 'arrow-up-right'  
+  color: 'blue'
 
 on: # trigger when push to master
     push:
