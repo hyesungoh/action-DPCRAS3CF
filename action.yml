@@ -1,4 +1,4 @@
-name: deploy-on-s3
+name: DPCRAS3CF
 
 on: # trigger when push to master
     push:
